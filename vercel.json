@@ -12,7 +12,7 @@
           "value": "nosniff"
         },
         {
-          "key": "Referrer-Policy",
+          "key": "Referer-Policy",
           "value": "strict-origin-when-cross-origin"
         },
         {
